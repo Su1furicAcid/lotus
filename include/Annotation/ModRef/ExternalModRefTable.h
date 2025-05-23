@@ -1,7 +1,7 @@
 #pragma once
 
 #include "Annotation/ModRef/ModRefEffectSummary.h"
-
+#include <string>
 #include <unordered_map>
 
 namespace llvm
